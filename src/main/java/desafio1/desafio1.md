@@ -1,4 +1,5 @@
-### 1) Observe o trecho de código abaixo:
+## Desafio 3
+1) Observe o trecho de código abaixo:
 
 ```
 int INDICE = 13, SOMA = 0, K = 0;
@@ -7,7 +8,7 @@ Imprimir(SOMA);
 ```
 Ao final do processamento, qual será o valor da variável SOMA?
 
-### o valor da variável soma será 91
+### o valor da variável 'soma' será 91
 
 ```
 1
